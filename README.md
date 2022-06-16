@@ -1,2 +1,0 @@
-# yokai
-Yokai board game
